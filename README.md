@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Muhammad%20Irfan%20Dzaky&fontSize=40&fontColor=c0caf5&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Muhammad%20Irfan%20Dzaky&fontSize=40&fontColor=c0caf5&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Next.js+%2B+NestJS+%2B+PostgreSQL;Class+Coordinator+%40+RevoU;Building+web+apps+with+TypeScript" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 
 ```ts
 const jek = {
-  role: "Full-Stack Web Developer",
+  role: "Software Engineer",
   location: "Indonesia",
   currently: "Class Coordinator @ RevoU Full Stack Software Engineering Faculty",
   previously: "Team Lead @ RevoU (Feb - Oct 2026), mentored a cohort of 11 students",
@@ -26,7 +26,7 @@ const jek = {
     "RevoU Full-Stack Software Engineering Bootcamp (Feb 2025)",
   ],
   workflow: "AI-assisted development",
-  openTo: ["Full-stack developer roles", "Freelance web projects"],
+  openTo: ["Software engineering roles", "Freelance projects"],
 };
 ```
 
